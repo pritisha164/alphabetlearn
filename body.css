@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+    background-color: #7784a7;
+  }
+  p {
+    font-family: sans-serif;
+    font-size: 2rem;
+    font-style: oblique;
+    color: rgb(31, 8, 53);
+    text-align: left;
+  }
+  
+  h1 {
+    font-size: 5rem;
+    color: #124758;
+    font-family: "Arvo", cursive;
+    text-shadow: 2px 0 #b30a56;
+  
+  }
+  footer {
+    color: #DBEDF3;
+    font-family: sans-serif;
+  }
+  .set {
+    margin: 10% auto;
+  }
+  
+  .pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+  }
+  
+  .red {
+    color: red;
+  }
+  
+  .alpha {
+    outline: none;
+    border: 10px solid #141925;
+    font-size: 4rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #6d1018;
+    text-shadow: 3px 0 #b2c5cc;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color:rgb(215, 180, 219);    
+  }
+  .Ww  ,.Mm{  
+      font-size: 3rem;
+  }
+  
